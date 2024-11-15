@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Fix Lenovo Thinkpad Keyboard
+Exec=gnome-terminal --bash -c "/usr/local/bin/fix_keys.sh; exec bash"
+Terminal=false
+Icon=utilities-terminal
+Comment=Cause I had the page up and down keys next to the up and down keys on my thinkpad
+Categories=Utilities;
